@@ -1,0 +1,53 @@
+{
+  "entries":
+  [
+    {
+      "myID": "574293647",
+      "myName": "Lanah Pheng",
+      "myPhone": "571XXXXXXX",
+      "myStatus": "Active",
+      "myLocation": "Charlottesville, VA",
+      "myPicture": "Doe"
+    },
+    {
+      "myID": "679375730",
+      "myName": "Afia Paracha",
+      "myPhone": "571XXXXXXX",
+      "myStatus": "Active",
+      "myLocation": "Charlottesville, VA",
+      "myPicture": "Doe"
+    },
+    {
+      "myID": "294859132",
+      "myName": "Ariya Pheng",
+      "myPhone": "571XXXXXXX",
+      "myStatus": "Active",
+      "myLocation": "Lansdowne, VA",
+      "myPicture": "Doe"
+    },
+    {
+      "myID": "901274384",
+      "myName": "Mira Khan",
+      "myPhone": "571XXXXXXX",
+      "myStatus": "Away",
+      "myLocation": "Charlottesville, VA",
+      "myPicture": "Doe"
+    },
+    {
+      "myID": "102830483",
+      "myName": "Crystal Sanchez",
+      "myPhone": "903XXXXXXX",
+      "myStatus": "Active",
+      "myLocation": "Dallas, TX",
+      "myPicture": "Doe"
+    },
+    {
+      "myID": "473829482",
+      "myName": "Grant Atwood",
+      "myPhone": "562XXXXXXX",
+      "myStatus": "Away",
+      "myLocation": "Charlottesville, VA",
+      "myPicture": "Doe"
+    }
+  ]
+}
